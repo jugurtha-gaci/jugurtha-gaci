@@ -1,5 +1,5 @@
 # Hi there, I'm Jugurtha Gaci👋
-### I've passion in learning Computer Science engineering, Currently i'm a freelance web developer
+#### I've passion in learning Computer Science engineering, Currently i'm a freelance web developer
 ---
 - 🌱 I’m currently learning Three.js ( with @bruno_simon )
 - 🌎 I speak Tamazight, Arabic, English, French fluently
