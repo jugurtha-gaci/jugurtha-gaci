@@ -35,6 +35,7 @@ Small things I created while learning
 ![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat-square&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/Javascript-white.svg?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-white.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-white.svg?style=flat-square&logo=nuxtdotjs&logoColor=%234FC08D)
 ![React.js](https://img.shields.io/badge/React.js-white?style=flat-square&logo=react)
 ![Axios, Ajax and API's](https://img.shields.io/badge/Axios,%20Ajax%20and%20APIs-white?style=flat-square&logo=axios&logoColor=black)
 ![Green Sock](https://img.shields.io/badge/GreenSock-white?style=flat-square&logo=greensock)
