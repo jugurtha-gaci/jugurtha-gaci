@@ -1,16 +1,15 @@
 # Hi there, I'm Jugurtha Gaci👋
-#### I've passion in learning Computer Science engineering, Currently i'm a freelance web developer
+#### A Mathematics student skilled in web developement
+#### A passionate Computer Science engineering learner
 ---
 - 🌱 I’m currently learning Three.js ( with @bruno_simon )
 - 🌎 I speak Tamazight, Arabic, English, French fluently
 - 💬 Ask me about Javascript, PHP and web technologies
 - 🔭 I’m open for a remote job as a full-stack web developer
 
-- 🥅 2022 Goals: 
-  - Solve +100 problems with C/C++ (currently solved less than 100)
-  - Go away with React.js (in progress..)
-  - Learn Three.js (in progress..)
-  - Learn NoSQL & document-based data store 
+- 🥅 2023 Goals: 
+  - Improve my problem solving skills, using C/C++
+  - Begin working with DevOps
   - Build my personal portfolio
 
 ---
@@ -35,9 +34,10 @@ Small things I created while learning
 ![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat-square&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/Javascript-white.svg?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-white.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/Typescript-white.svg?style=flat-square&logo=typescript)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-white.svg?style=flat-square&logo=nuxtdotjs&logoColor=%234FC08D)
 ![React.js](https://img.shields.io/badge/React.js-white?style=flat-square&logo=react)
-![Axios, Ajax and API's](https://img.shields.io/badge/Axios,%20Ajax%20and%20APIs-white?style=flat-square&logo=axios&logoColor=black)
+![Axios, Ajax and APIs](https://img.shields.io/badge/Axios,%20Ajax%20and%20APIs-white?style=flat-square&logo=axios&logoColor=black)
 ![Green Sock](https://img.shields.io/badge/GreenSock-white?style=flat-square&logo=greensock)
 ![Three.js](https://img.shields.io/badge/Three.js-white?style=flat-square&logo=three.js&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-white?style=flat-square&logo=php)
