@@ -1,26 +1,32 @@
 # Hi there, I'm Jugurtha Gaci👋
-#### A Mathematics student skilled in web developement
-#### A passionate Computer Science engineering learner
----
-- 🌱 I’m currently learning Three.js ( with @bruno_simon )
-- 🌎 I speak Tamazight, Arabic, English, French fluently
-- 💬 Ask me about Javascript, PHP and web technologies
-- 🔭 I’m open for a remote job as a full-stack web developer
 
-- 🥅 2023 Goals: 
-  - Improve my problem solving skills, using C/C++
-  - Begin working with DevOps
-  - Build my personal portfolio
+19 yo, A maths student at **University of Bouira**. Also a passionate self-taught web engineer
 
----
-**👋  Get in touch**
+After digging deeper in my Mathematics University Course, I started discovering new and "wonderful" things by linking maths with data science, which made decide starting a new learning journey with more passion in the field of data science.
 
+According to my experience in web, **MVC** was my preferred paradigm of building full-stack web applications. Moreover, I liked the way of building UIs with components-based frameworks, especially **Vue**.
+
+I admire the **SSR** and **Universal Rendering** technologies that enhance SEO. For that, I'm using **Nuxt.js** in most of my projects.
+
+I try my best to be "someone special" in "someday" insha'Allah! I'm always learning new stuffs, i believe that someone disciplined has no limit, so i try my best to make myself more disciplined.
+
+I seek to learn from my past mistakes. 
+
+"If you're not failing, you're not trying hard enough."
+
+### Get me in touch
 - <a href="https://www.linkedin.com/in/jugurtha-gaci-28ab93234/r" target="blank">LinkedIn</a>
 - <a href="https://twitter.com/_yugurten" target="blank">Twitter</a>
 
+## More about me :
+
+- 🌱 I’m currently learning Three.js ( with @bruno_simon )
+- 🌎 I speak Tamazight, Arabic, English, French fluently
+- 💬 Ask me about Javascript, PHP and web technologies
+
 ---
 **🎨  Playground**  
-Small things I created while learning
+Small things I created while learning **Three.js**
 - [3D Text in space - Three.js](https://3dtext-in-space.netlify.app)
 - [Haunted House - Three.js](https://3dtext-in-space.netlify.app)
 - [Galaxy Generator - Three.js](https://galaxy-generator-effect.netlify.app)
