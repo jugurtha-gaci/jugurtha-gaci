@@ -16,13 +16,16 @@
 **👋  Get in touch**
 
 - <a href="https://www.linkedin.com/in/jugurtha-gaci-28ab93234/r" target="blank">LinkedIn</a>
-- <a href="https://codepen.io/yugurten" target="blank">Codepen</a>
 - <a href="https://twitter.com/_yugurten" target="blank">Twitter</a>
 
 ---
 **🎨  Playground**  
 Small things I created while learning
-> i'll collect them soon   
+- [3D Text in space - Three.js](https://3dtext-in-space.netlify.app)
+- [Haunted House - Three.js](https://3dtext-in-space.netlify.app)
+- [Galaxy Generator - Three.js](https://galaxy-generator-effect.netlify.app)
+
+> I'll collect other small projects soon!
 
 ---
 **🛠  Languages and tools:**
