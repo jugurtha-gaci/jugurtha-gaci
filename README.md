@@ -2,7 +2,7 @@
 
 19 yo, A maths student at **University of Bouira**. Also a passionate self-taught web engineer
 
-After digging deeper in my Mathematics University Course, I started discovering new and "wonderful" things by linking maths with data science, which made decide starting a new learning journey with more passion in the field of data science.
+After digging deeper in my Mathematics University Course, I started discovering new and "wonderful" things by linking maths with data science, which made me decide starting a new learning journey with more passion in the field of data science.
 
 According to my experience in web, **MVC** was my preferred paradigm of building full-stack web applications. Moreover, I liked the way of building UIs with components-based frameworks, especially **Vue**.
 
@@ -28,7 +28,7 @@ I seek to learn from my past mistakes.
 **🎨  Playground**  
 Small things I created while learning **Three.js**
 - [3D Text in space - Three.js](https://3dtext-in-space.netlify.app)
-- [Haunted House - Three.js](https://3dtext-in-space.netlify.app)
+- [Haunted House - Three.js](https://3dtext-in-space.netlify.app](https://haunted-house-threejs-training.netlify.app)
 - [Galaxy Generator - Three.js](https://galaxy-generator-effect.netlify.app)
 
 > I'll collect other small projects soon!
