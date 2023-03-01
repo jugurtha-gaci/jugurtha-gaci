@@ -28,7 +28,7 @@ I seek to learn from my past mistakes.
 **🎨  Playground**  
 Small things I created while learning **Three.js**
 - [3D Text in space - Three.js](https://3dtext-in-space.netlify.app)
-- [Haunted House - Three.js](https://3dtext-in-space.netlify.app](https://haunted-house-threejs-training.netlify.app)
+- [Haunted House - Three.js](https://haunted-house-threejs-training.netlify.app)
 - [Galaxy Generator - Three.js](https://galaxy-generator-effect.netlify.app)
 
 > I'll collect other small projects soon!
