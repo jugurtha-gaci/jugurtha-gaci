@@ -27,9 +27,10 @@ I seek to learn from my past mistakes.
 ---
 **🎨  Playground**  
 Small things I created while learning **Three.js**
-- [3D Text in space - Three.js](https://3dtext-in-space.netlify.app)
 - [Haunted House - Three.js](https://haunted-house-threejs-training.netlify.app)
-- [Galaxy Generator - Three.js](https://galaxy-generator-effect.netlify.app)
+- [3D Text in space - Three.js](https://3dtext-in-space.netlify.app)
+- [Static Galaxy - Three.js using Particles](https://galaxy-generator-effect.netlify.app)
+- [Algerian Flag - Three.js with GLSL](https://flag-shader.netlify.app/)
 
 > I'll collect other small projects soon!
 
