@@ -1,8 +1,6 @@
 # Hi there, I'm Jugurtha Gaci👋
 
-19 yo, A maths student at **University of Bouira**. Also a passionate self-taught web engineer
-
-After digging deeper in my Mathematics University Course, I started discovering new and "wonderful" things by linking maths with data science, which made me decide starting a new learning journey with more passion in the field of data science.
+19 yo, A maths student at **University of Bouira**. Also a passionate self-taught web engineer.
 
 According to my experience in web, **MVC** was my preferred paradigm of building full-stack web applications. Moreover, I liked the way of building UIs with components-based frameworks, especially **Vue**.
 
