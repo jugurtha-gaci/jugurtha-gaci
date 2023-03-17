@@ -1,16 +1,19 @@
 # Hi there, I'm Jugurtha Gaci👋
 
-19 yo, A maths student at **University of Bouira**. Also a passionate self-taught web engineer.
+19 yo. A maths student at **University of Bouira**. Also a passionate self-taught web engineer.
 
 According to my experience in web, **MVC** was my preferred paradigm of building full-stack web applications. Moreover, I liked the way of building UIs with components-based frameworks, especially **Vue**.
 
 I admire the **SSR** and **Universal Rendering** technologies that enhance SEO. For that, I'm using **Nuxt.js** in most of my projects.
 
-I try my best to be "someone special" in "someday" insha'Allah! I'm always learning new stuffs, i believe that someone disciplined has no limit, so i try my best to make myself more disciplined.
+I like to do things differently ...
+
+I try my best to be "someone special"! I'm always learning new stuffs, I believe that someone disciplined has no limit, so i'm trying to make myself more disciplined.
 
 I seek to learn from my past mistakes. 
 
-"اللهم علمني ما ينفعني، و انفعني بما علمتني و زدني علما"
+" اللهم علمني ما ينفعني، و انفعني بما علمتني و زدني علما "
+
 
 ### Get me in touch
 - <a href="https://www.linkedin.com/in/jugurtha-gaci-28ab93234/r" target="blank">LinkedIn</a>
