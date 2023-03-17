@@ -10,7 +10,7 @@ I try my best to be "someone special" in "someday" insha'Allah! I'm always learn
 
 I seek to learn from my past mistakes. 
 
-"If you're not failing, you're not trying hard enough."
+"اللهم علمني ما ينفعني، و انفعني بما علمتني و زدني علما"
 
 ### Get me in touch
 - <a href="https://www.linkedin.com/in/jugurtha-gaci-28ab93234/r" target="blank">LinkedIn</a>
