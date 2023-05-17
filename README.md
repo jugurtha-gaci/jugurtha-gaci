@@ -8,7 +8,7 @@ I admire the **SSR** and **Universal Rendering** technologies that enhance SEO. 
 
 I like to do things differently ...
 
-I try my best to be "someone special"! I'm always learning new stuffs, I believe that someone disciplined has no limit, so i'm trying to make myself more disciplined.
+I'm always learning new stuffs, and i'm always trying to make myself more disciplined.
 
 I seek to learn from my past mistakes. 
 
