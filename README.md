@@ -1,6 +1,6 @@
 # Hi there, I'm Jugurtha Gaci👋
 
-20 yo. A computer science student at **University of Namur, Belgium**. && a passionate self-taught web engineer.
+20 yo. A computer science student at **University of Namur**. and a passionate self-taught web engineer.
 
 According to my experience in web, **MVC** was my preferred paradigm of building full-stack web applications. Moreover, I liked the way of building UIs with components-based frameworks, especially **Vue**.
 
