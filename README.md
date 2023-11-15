@@ -10,14 +10,13 @@ I like to do things differently ...
 
 I'm always learning new stuffs, and i'm always trying to make myself more disciplined.
 
-I seek to learn from my past mistakes. 
 
 " اللهم علمني ما ينفعني، و انفعني بما علمتني و زدني علما "
 
 
 ### Get me in touch
 - <a href="https://www.linkedin.com/in/jugurtha-gaci-28ab93234/r" target="blank">LinkedIn</a>
-- <a href="https://twitter.com/_yugurten" target="blank">Twitter</a>
+- <a href="https://twitter.com/jugurthagaci" target="blank">Twitter</a>
 
 ## More about me :
 
