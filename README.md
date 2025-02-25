@@ -1,28 +1,25 @@
-# Hi there, I'm Jugurtha Gaci👋
+# Hi, I'm Jugurtha👋
 
-21 yo. A computer science student at **University of Namur**. Also a passionate self-taught web developer.
+21 yo. A computer science student at **University of Namur**. Also an enthusiast web developer.
 
-According to my experience in web, **MVC** was my preferred paradigm of building full-stack web applications. Moreover, I liked the way of building UIs with components-based frameworks, especially **Vue**.
-
-I admire the **SSR** and **Universal Rendering** technologies that enhance SEO. For that, I'm using **Nuxt.js** in most of my projects.
-
-I like to do things differently ...
+I spend most of my time working to improve my problem solving skills, my math skills, and my mindset.
 
 I'm always learning new stuffs, and i'm always trying to make myself more disciplined.
 
 
 " اللهم علمني ما ينفعني، و انفعني بما علمتني و زدني علما "
 
-
 ### Get me in touch
+- <a href="https://jugurtha.dev" target="blank">Personal portfolio (under development)</a>
 - <a href="https://www.linkedin.com/in/jugurtha-gaci-28ab93234/r" target="blank">LinkedIn</a>
 - <a href="https://twitter.com/jugurthagaci" target="blank">Twitter</a>
 
 ## More about me :
 
-- 🌱 I’m currently learning Three.js ( with @bruno_simon )
-- 🌎 I speak Tamazight, Arabic, English, French fluently
-- 💬 Ask me about Javascript, PHP and web technologies
+- 🌱 I’m currently building my portfolio ( creative storytelling portfolio, check it <a href="https://jugurtha.dev" target="blank">here (under dev)</a> ).
+- 🧾 I'm also working to improve my writing skills, I intend to start content creation in few months.
+- 🌎 I speak Tamazight, Arabic, English, French fluently.
+- 💬 Ask me about Javascript, PHP and web technologies.
 
 ---
 **🎨  Playground**  
